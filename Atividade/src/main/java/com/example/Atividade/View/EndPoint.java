@@ -1,5 +1,6 @@
-package com.example.Atividade;
+package com.example.Atividade.Controller;
 
+import com.example.Atividade.Model.Usuario;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
